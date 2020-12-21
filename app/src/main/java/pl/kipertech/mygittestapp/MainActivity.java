@@ -1,10 +1,12 @@
 package pl.kipertech.mygittestapp;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 public class MainActivity extends AppCompatActivity {
+
+    private static String className = "AppCompactActivity";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
