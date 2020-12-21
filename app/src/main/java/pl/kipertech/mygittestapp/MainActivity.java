@@ -6,7 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static String className = "AppCompactActivity";
+    private static String className = "AppCompactActivity -- wersja 2";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
